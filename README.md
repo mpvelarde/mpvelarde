@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👩🏻‍💻✨ I’m a Software Engineer at [Bloomberg](https://github.com/bloomberg)
+- 🌱 from Guayaquil, Ecuador 🇪🇨 
+- 📍 based in London 🇬🇧
+- 😄 Pronouns: She/Her
+
 <!--
 **mpvelarde/mpvelarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
